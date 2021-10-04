@@ -17,10 +17,11 @@ C:\Users\Ajay singh sisodia\Desktop\Banking_Application\bin\Debug\netcoreapp3.1\
 C:\Users\Ajay singh sisodia\Desktop\Banking_Application\bin\Debug\netcoreapp3.1\myproject.runtimeconfig.dev.json
 C:\Users\Ajay singh sisodia\Desktop\Banking_Application\bin\Debug\netcoreapp3.1\myproject.dll
 C:\Users\Ajay singh sisodia\Desktop\Banking_Application\bin\Debug\netcoreapp3.1\myproject.pdb
-C:\Users\Ajay singh sisodia\Desktop\Banking_Application\obj\Debug\netcoreapp3.1\myproject.csprojAssemblyReference.cache
 C:\Users\Ajay singh sisodia\Desktop\Banking_Application\obj\Debug\netcoreapp3.1\myproject.AssemblyInfoInputs.cache
 C:\Users\Ajay singh sisodia\Desktop\Banking_Application\obj\Debug\netcoreapp3.1\myproject.AssemblyInfo.cs
 C:\Users\Ajay singh sisodia\Desktop\Banking_Application\obj\Debug\netcoreapp3.1\myproject.csproj.CoreCompileInputs.cache
 C:\Users\Ajay singh sisodia\Desktop\Banking_Application\obj\Debug\netcoreapp3.1\myproject.dll
 C:\Users\Ajay singh sisodia\Desktop\Banking_Application\obj\Debug\netcoreapp3.1\myproject.pdb
 C:\Users\Ajay singh sisodia\Desktop\Banking_Application\obj\Debug\netcoreapp3.1\myproject.genruntimeconfig.cache
+C:\Users\Ajay singh sisodia\Desktop\Banking_Application\obj\Debug\netcoreapp3.1\myproject.csproj.AssemblyReference.cache
+C:\Users\Ajay singh sisodia\Desktop\Banking_Application\obj\Debug\netcoreapp3.1\myproject.GeneratedMSBuildEditorConfig.editorconfig
